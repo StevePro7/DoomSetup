@@ -8,7 +8,7 @@
       "program": "${workspaceFolder}/src/prboom-plus",
       "args": [
         "-iwad",
-        "Doom1.wad"
+        "Doom2.wad"
       ],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
