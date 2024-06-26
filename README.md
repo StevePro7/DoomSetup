@@ -1,4 +1,4 @@
-# DoomSetup
+# Doom Code Walk Thru
 Test repo to setup Doom cross-platform configurations
 
 
