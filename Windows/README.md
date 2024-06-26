@@ -15,7 +15,7 @@ Clean solution
 Build solution
 F5
 ```
-WAD file
+WAD files
 ```
-C:\GitHub\SteveProXNA\Doom\
+C:\GitHub\SteveProXNA\Doom\Files
 ```
