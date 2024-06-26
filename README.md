@@ -1,5 +1,5 @@
 # Doom Code WalkThru
-Instructions for Doom Code WalkThru blog post
+Instructions for Doom Code WalkThru [blog](https://steveproxna.blogspot.com/2024/08/doom-code-walkthru.html) post
 
 ![Doom](https://github.com/StevePro7/DoomSetup/blob/main/Images/Doom1.png)
 
@@ -10,30 +10,8 @@ https://steveproxna.blogspot.com/2024/08/doom-code-walkthru.html
 Pre-Requisites
 
 
-01.LIN
-prboom
-Ensure the following pre-reqs
-~/.prboom-plus
-Copy all Files here
+### Doom on Linux
+- prboom
 
-Launch VS Code
-~/GitHub/StevePro7/DoomSetup/Linux/prboom-plus
-
-Add build.sh
-chmod +x build.sh
-
-Add .vscode directory
-Add json files
-tasks.json
-launch.json     set Doom WAD File in args
-
-Ctrl+Shift+B    build
-F5              run
-
-
-02.WIN
-DoomRetro
-
-Launch VS 2022
-~/GitHub/StevePro7/DoomSetup/Windows/
-D:\GitHubX\bradharding\doomretro\msvc\doomretro.sln
+### Doom on Windows
+- DoomRetro
