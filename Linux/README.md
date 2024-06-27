@@ -13,7 +13,7 @@ chmod +x build.sh
 touch .vscode/tasks.json
 touch .vscode/launch.json
 ```
-d_main.c
+i_main.c
 ```
 Ctrl+Shift+B
 F5
