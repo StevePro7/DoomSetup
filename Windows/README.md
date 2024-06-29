@@ -1,5 +1,4 @@
 # Doom on Windows
-
 ### DoomRetro
 
 ![DoomRetro](https://github.com/SteveProXNA/DoomCodeWalkThru/blob/main/Images/VS2022Debug.png)
@@ -11,7 +10,7 @@ Open project
 doomretro.sln
 C:\GitHub\SteveProXNA\Doom\Windows\doomretro\msvc
 ```
-d_main.c
+doomretro.c
 ```
 Debug | 32-bit
 Right click doomretro
