@@ -18,3 +18,5 @@ i_main.c
 Ctrl+Shift+B
 F5
 ```
+![prboom-plus](https://github.com/SteveProXNA/DoomCodeWalkThru/blob/main/Images/VScodeDebug.png)
+![prboom-plus](https://github.com/StevePro7/DoomSetup/blob/main/Images/VScodeDebug.png)
