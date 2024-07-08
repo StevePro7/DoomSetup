@@ -27,7 +27,7 @@ touch .vscode/launch.json
 ```
 WAD files
 ```
-cp ~/GitHub/SteveProXNA/Doom/Files/* ~/.prboom-plus
+cp ../Files/* ~/.prboom-plus
 ```
 i_main.c
 ```
