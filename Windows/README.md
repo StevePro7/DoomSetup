@@ -2,13 +2,12 @@
 ### DoomRetro
 
 ![DoomRetro](https://github.com/SteveProXNA/DoomCodeWalkThru/blob/main/Images/VS2022Debug.png)
-![DoomRetro](https://github.com/StevePro7/DoomSetup/blob/main/Images/VS2022Debug.png)
 
 Visual Studio 2022
 ```
 Open project
 doomretro.sln
-C:\GitHub\SteveProXNA\Doom\Windows\doomretro\msvc
+./doomretro/msvc
 ```
 doomretro.c
 ```
@@ -20,5 +19,5 @@ F5
 ```
 WAD files
 ```
-C:\GitHub\SteveProXNA\Doom\Files
+../Files
 ```
